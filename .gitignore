@@ -27,6 +27,7 @@ package-lock.json
 
 #intellij idea
 .idea/
+*.iml
 
 dist/*
 bin/

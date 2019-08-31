@@ -196,6 +196,9 @@ func MakeWidget(
 	case "todo":
 		settings := todo.NewSettingsFromYAML(moduleName, moduleConfig, config)
 		widget = todo.NewWidget(app, pages, settings)
+	case "todo2":
+		settings := todo.NewSettingsFromYAML("todo", moduleConfig, config)
+		widget = todo.NewWidget(app, pages, settings)
 	case "todoist":
 		settings := todoist.NewSettingsFromYAML(moduleName, moduleConfig, config)
 		widget = todoist.NewWidget(app, pages, settings)
