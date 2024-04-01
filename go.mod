@@ -15,7 +15,7 @@ require (
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/chzyer/readline v1.5.1
 	github.com/creack/pty v1.1.18
-	github.com/digitalocean/godo v1.98.0
+	github.com/digitalocean/godo v1.110.0
 	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker v23.0.8+incompatible
 	github.com/docker/docker-credential-helpers v0.8.1
@@ -132,7 +132,7 @@ require (
 	github.com/gookit/color v1.4.2 // indirect
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.2 // indirect
+	github.com/hashicorp/go-retryablehttp v0.7.4 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/hekmon/cunits/v2 v2.1.0 // indirect
 	github.com/huandu/xstrings v1.3.2 // indirect
